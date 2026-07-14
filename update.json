@@ -1,12 +1,12 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "notes": "Update system, save fixes, app-only dialogs, table fixes, and icon fixes.",
   "windows": {
-    "url": "https://github.com/rcarmoelwin78-oss/hla-textile-pos-updates/releases/download/v1.0.5/HLA.Textile.POS.Setup.1.0.5.exe",
-    "fileName": "HLA.Textile.POS.Setup.1.0.5.exe"
+    "url": "https://github.com/rcarmoelwin78-oss/hla-textile-pos-updates/releases/download/v1.0.6/HLA.Textile.POS.Setup.1.0.6.exe",
+    "fileName": "HLA.Textile.POS.Setup.1.0.6.exe"
   },
   "mac": {
-    "url": "https://github.com/rcarmoelwin78-oss/hla-textile-pos-updates/releases/download/v1.0.5/HLA.Textile.POS-1.0.5.dmg",
-    "fileName": "HLA.Textile.POS-1.0.5.dmg"
+    "url": "https://github.com/rcarmoelwin78-oss/hla-textile-pos-updates/releases/download/v1.0.6/HLA.Textile.POS-1.0.6.dmg",
+    "fileName": "HLA.Textile.POS-1.0.6.dmg"
   }
 }
