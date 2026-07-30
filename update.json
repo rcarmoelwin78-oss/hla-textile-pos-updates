@@ -2,7 +2,7 @@
   "version": "1.0.14",
   "notes": "Fixed Ctrl+Z undo in the desktop app so table edits can be reverted reliably.",
   "windows": {
-    "url": "https://github.com/rcarmoelwin78-oss/hla-textile-pos-updates/releases/download/v1.0.14/HLA.Textile.POS.Setup.1.0.14.exe",
+    "url": "https://raw.githubusercontent.com/rcarmoelwin78-oss/hla-textile-pos-updates/main/HLA.Textile.POS.Setup.1.0.14.exe",
     "fileName": "HLA.Textile.POS.Setup.1.0.14.exe"
   },
   "mac": {
